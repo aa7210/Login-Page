@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="1.css">
+
+</head>
+
+<body>
+    <header class="header">
+
+        <!-- <div class="left">
+            <img src="CODE.jpg">
+        </div> -->
+
+        <div class="mid">
+
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Contact us</a></li>
+            <li><a href="#">Email</a></li>
+        </div>
+
+        <div class="right">
+            <div class="search">
+                <input type="text" name="Search" placeholder="Search">
+            </div>
+
+    </header>
+    <div class="container">
+        <center>
+            <h1>
+                Login
+            </h1>
+        </center>
+        <div class="forms">
+            Name<input type="Name" placeholder="Enter Name"><br>
+            Password<input type="password" placeholder="Enter password"><br>
+            <button class="btn">Submit</button>
+
+        </div>
+    </div>
+</body>
+
+</html>
